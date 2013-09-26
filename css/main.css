@@ -110,12 +110,24 @@ textarea {
     }
 }
 
+/*==========  logo  ==========*/
+h1{
+    color: #E8306C;
+    font-size: 1.85em;
+}
+h1 span{
+    color: #C0BFBF;
+}
+h2{
+    font-size: 1.5em;
+}
 .brand{
     text-indent: -9999px;
     display: block;
-    width: 300px;
-    height: 103px;
+    width: 15em;
+    height: 5em;
     background: url('../img/logo.png') no-repeat;
+    background-size: 100% auto;
 }
 
 .banner-photo{

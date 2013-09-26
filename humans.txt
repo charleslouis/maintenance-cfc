@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Charles-Louis Allizard, La souris et le piano> -- <web-designer> -- <@Charleloui>
 
 # THANKS
 
-    <name>
+    <h5bp>
 
 # TECHNOLOGY COLOPHON
 
